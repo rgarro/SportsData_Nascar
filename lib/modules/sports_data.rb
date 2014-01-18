@@ -23,8 +23,8 @@ module Modules
       @@init_msg = "driving like hell sparks ..."
       
       def get_api_key
-        #your api key
-        'a7jec3dk7w2ff49dramn8fe2'
+        #get your api key at http://developer.sportsdatallc.com/member/register
+        'place_your_api_key_here'
       end
       # gazing fullmoon bliss
       # brakeless illussions behind
